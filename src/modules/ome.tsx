@@ -1,3 +1,3 @@
 export default function Ome() {
-  return <div>Hola ay ome</div>;
+  return <div>Hola ay ome!</div>;
 }
